@@ -5,6 +5,8 @@
 #####Some of the variables are named in the Romanian languages.#####
 #Legend for other Languages visitors:#
 
+#actiune = action
+
 #minge = Ball
 #DiametruMinge = Ball Radius
 
